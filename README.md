@@ -1,8 +1,8 @@
-# StickyRunner
+# StickyCursor
 
 Erhältlich für Android 4.x - 11.
 
-Link: Coming soon...
+Link: https://play.google.com/store/apps/details?id=com.develobba.Sticky_Runner
 
 # Datenschutzerklärung
 
